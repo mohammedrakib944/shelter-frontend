@@ -39,7 +39,7 @@ const Login = () => {
     <div className="container">
       <ToastContainer position="bottom-center" theme="colored" />
       <div className="max-w-[500px] mx-auto">
-        <h3 className="gradient-text w-fit mx-auto text-4xl mt-6 mb-2">
+        <h3 className="gradient-text w-fit mx-auto text-4xl mt-6 mb-2 pb-3">
           Login
         </h3>
 
